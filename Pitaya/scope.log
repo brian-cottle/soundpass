@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/briancottle/Code/soundpass/Pitaya/live_scope.py", line 4, in <module>
+    import pyqtgraph as pg
+ModuleNotFoundError: No module named 'pyqtgraph'
